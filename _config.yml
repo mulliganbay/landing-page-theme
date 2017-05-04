@@ -31,3 +31,6 @@ social:
     url: https://github.com/
   - title: linkedin
     url: 
+    
+# Google services
+google_analytics: UA-97019085-1
